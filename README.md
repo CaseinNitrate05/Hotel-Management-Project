@@ -9,7 +9,7 @@ This is a **full-featured Hotel Management System** built using **Django** as pa
 - 🛏️ Room booking with dynamic cost calculation
 - 🧾 Service and package selection
 - 📅 Check-in and check-out date handling
-- 📧 Email confirmation after successful booking
+- 📧 Confirmation after successful booking
 - 👤 Guest dashboard with booking history and personal details
 - 🔐 User authentication (login/logout)
 - 📋 Admin panel for managing rooms, services, bookings, etc.
@@ -19,4 +19,4 @@ This is a **full-featured Hotel Management System** built using **Django** as pa
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Django (Python)
 - **Database**: SQLite3 (default Django DB)
-- **Other Tools**: Bootstrap, Django Admin, Email backend
+- **Other Tools**: Bootstrap, Django Admin
