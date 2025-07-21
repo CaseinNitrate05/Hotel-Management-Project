@@ -20,5 +20,3 @@ This is a **full-featured Hotel Management System** built using **Django** as pa
 - **Backend**: Django (Python)
 - **Database**: SQLite3 (default Django DB)
 - **Other Tools**: Bootstrap, Django Admin, Email backend
-
-## 🖼️ Screenshots
