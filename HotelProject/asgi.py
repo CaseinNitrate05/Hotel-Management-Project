@@ -1,3 +1,16 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:23eca51fe6c5a3105fc7ab4a028b7033dcf4e4d11197e5882c9dfa0f8f59f7de
-size 417
+"""
+ASGI config for HotelProject project.
+
+It exposes the ASGI callable as a module-level variable named ``application``.
+
+For more information on this file, see
+https://docs.djangoproject.com/en/3.2/howto/deployment/asgi/
+"""
+
+import os
+
+from django.core.asgi import get_asgi_application
+
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'HotelProject.settings')
+
+application = get_asgi_application()
